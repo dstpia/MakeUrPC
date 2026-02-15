@@ -55,4 +55,4 @@
 
 ## Программный код
 
-[Java code](https://github.com/dstpia/)  
+[Java code](https://github.com/dstpia/MakeUrPC/tree/main/src/main)  
